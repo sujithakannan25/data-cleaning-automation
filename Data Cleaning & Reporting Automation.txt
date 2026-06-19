@@ -1,0 +1,18 @@
+Project: Data Cleaning & Reporting Automation
+
+Tool Used: Python (pandas, matplotlib)
+
+Steps Done:
+1. Created dataset with missing values & duplicates
+2. Fixed missing values using mean/fillna
+3. Removed 2 duplicate rows
+4. Corrected data types
+5. Generated automated report summary
+6. Created 4 visual charts
+
+Results:
+- Total Employees: 8
+- Average Salary: 64,028
+- Average Score: 88.0
+- Top Department: Finance
+- Missing Values After Cleaning: 0
